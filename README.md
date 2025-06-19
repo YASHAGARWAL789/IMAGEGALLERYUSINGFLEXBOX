@@ -45,7 +45,7 @@ image-gallery/
 
 ## 🖥️ Live Demo
 
-*(Add link here if hosted on GitHub Pages or any other platform)*
+https://chimerical-daffodil-93355d.netlify.app/
 
 ---
 
@@ -61,6 +61,11 @@ img {
 img:hover {
   filter: grayscale(0%);
 }
+
+📌 Usage
+Download or clone the repository.
+Replace the images in the images/ folder with your own if needed.
+Open index.html in your browser to see the gallery.
 
 🙌 Author
 Made with ❤️ by [YASH AGARWAL]
